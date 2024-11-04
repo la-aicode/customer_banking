@@ -1,7 +1,3 @@
-Here's a `README.md` that reflects the updated project structure, focusing on the different modules (`Account.py`, `cd_account.py`, `savings_account.py`, and `customer_banking.py`) and their roles.
-
----
-
 # Account Management Program
 
 This program provides a system for creating and managing various account types, including Savings and Certificate of Deposit (CD) accounts. It allows users to calculate interest based on input parameters, update account balances, and display results.
