@@ -95,8 +95,5 @@ Updated CD account balance: $2060.00
 ## Dependencies
 - Python 3.x
 
-## License
-This project is licensed under the MIT License.
 
----
 
